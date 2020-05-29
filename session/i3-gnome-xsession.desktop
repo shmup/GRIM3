@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=I3 + GNOME
+Name=GRIM3
 Comment=This session logs you into i3 with GNOME session integration
 Exec=gnome-session-i3
 TryExec=i3-gnome
